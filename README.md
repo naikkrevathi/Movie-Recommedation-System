@@ -1,0 +1,1 @@
+Movie Recommendation System This project builds  a content-based movie recommendation system using Python, Pandas, Scikit-learn, and Consine Similarity. It suggests movies similsr to a user's favourite movie based on genres, keyword, tagline, cast, and director.
